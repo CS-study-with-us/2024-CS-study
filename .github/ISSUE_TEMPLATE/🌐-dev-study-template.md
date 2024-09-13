@@ -3,7 +3,7 @@ name: "\U0001F310 Dev study template"
 about: 개발 스터디 이슈 생성을 위한 템플릿입니다.
 title: "\U0001F310 [n월 n주차] 개발 지식 스터디"
 labels: ''
-assignees: Eunjin3395, hzee97
+assignees: doonghui, Eunjin3395, conquest2023, itsjaeya, hzee97
 
 ---
 
@@ -28,6 +28,5 @@ assignees: Eunjin3395, hzee97
 ## 🌟 마감일
 
 - 주제 comment 마감: **n월 n일 (일)**
-- 스터디 내용 제출 마감: <span style="color:red"> n월 n일 (일) </span>
-
+- 스터디 내용 제출 마감:**n월 n일 (토)**
 - PR 리뷰 마감: **n월 n일 (일)**

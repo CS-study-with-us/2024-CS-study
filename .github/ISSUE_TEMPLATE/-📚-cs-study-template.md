@@ -3,7 +3,7 @@ name: "\b\U0001F4DA CS study template"
 about: 전공 스터디 이슈 생성을 위한 템플릿입니다.
 title: "\U0001F4DA [n월 n주차] 전공 지식 스터디"
 labels: ''
-assignees: Eunjin3395, hzee97
+assignees: doonghui, Eunjin3395, conquest2023, itsjaeya, hzee97
 
 ---
 
@@ -31,6 +31,5 @@ assignees: Eunjin3395, hzee97
 ## 🌟 마감일
 
 - 주제 comment 마감: **n월 n일 (일)**
-- 스터디 내용 제출 마감: <span style="color:red"> n월 n일 (일) </span>
-
+- 스터디 내용 제출 마감:**n월 n일 (토)**
 - PR 리뷰 마감: **n월 n일 (일)**
