@@ -109,7 +109,7 @@ ex) java_collection_framework.md
 
 └── ...
 ```
-## 🏃‍♂️ 학습 주제
+## 🏃‍♂️ 학습 저장소
 
 ### 📚 자료구조 (DS)
 ### 📚 네트워크 (Network)
