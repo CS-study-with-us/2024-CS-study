@@ -109,6 +109,19 @@ ex) java_collection_framework.md
 
 └── ...
 ```
+## 🏃‍♂️ 학습 주제
+
+### 📚 자료구조 (DS)
+### 📚 네트워크 (Network)
+* [DNS](https://github.com/CS-study-with-us/2024-CS-study/pull/3/files?short_path=5c7fbd7#diff-5c7fbd7a7896761c306233346451b5b3c67b769c707a0faa17c8a26f1eca2060)
+### 📚 운영체제 (OS)
+### 📚 데이터베이스 (DB)
+### 📚 소프트웨어공학 (SE)
+### 📚 디자인패턴 (Design)
+
+### 📚 Java
+### 📚 Spring
+### 📚 Web
 
 ## 👥 Member
 
