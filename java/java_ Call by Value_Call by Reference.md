@@ -101,4 +101,4 @@ Swap 호출 후 : a = 200, b = 100
 <!-- * [자료주제](링크)  -->
 - 컴퓨터인터넷IT용어대사전
 - https://github.com/Songwonseok/CS-Study?tab=readme-ov-file
--https://velog.io/@kwontae1313/JS%EC%9D%98-Call-by-Value-%EC%99%80-Call-by-Reference
+- https://velog.io/@kwontae1313/JS%EC%9D%98-Call-by-Value-%EC%99%80-Call-by-Reference
